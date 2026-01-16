@@ -3,5 +3,4 @@ So while browsing across different articles, I came across this article / Webpag
 
 
 Here is the reference link : "https://amanxai.com/2025/11/04/build-a-visual-question-answering-app/"
-
 Credits : Aman Kharwal
